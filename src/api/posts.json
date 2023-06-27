@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Ferrari f430",
+    "topic": "Sport cars",
+    "content": "Lorem ipsum dolor sit amet...",
+    "author": "Greg gotlib"
+  },
+  {
+    "id": 2,
+    "title": "FC barcelona",
+    "topic": "Footbal",
+    "content": "Lorem ipsum dolor sit amet...",
+    "author": "Edi gotlib"
+  },
+  {
+    "id": 3,
+    "title": "New drug has been revealed",
+    "topic": "Medicine",
+    "content": "Lorem ipsum dolor sit amet...",
+    "author": "Sofia gotlib"
+  }
+]
